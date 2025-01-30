@@ -30,8 +30,8 @@ Video AI Summarizer is a powerful application that leverages Gemini 2.0 Flash Ex
 
 1. Clone the repository:
 ```bash
- git clone https://github.com/yourusername/video-summarizer.git
- cd video-summarizer
+ git clone https://github.com/HMourad2023/Video-AI-Summarizer.git
+ cd Video-AI-Summarizer
 ```
 
 2. Activate the **agenticai** virtual environment:
