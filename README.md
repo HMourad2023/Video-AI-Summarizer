@@ -13,12 +13,12 @@ Video AI Summarizer is a powerful application that leverages Gemini 2.0 Flash Ex
 - **Integration with Gemini 2.0 Flash Exp AI**
 
 ## 🛠️ Technologies Used
-- ** Python 3.x**
-- ** Streamlit** - Web interface
-- ** Google Generative AI** - Video analysis
-- ** Phidata** - AI agent implementation
-- ** DuckDuckGo Tool** - Supplementary web research
-- ** Python-dotenv** - Environment variables management
+- **Python 3.x**
+- **Streamlit** - Web interface
+- **Google Generative AI** - Video analysis
+- **Phidata** - AI agent implementation
+- **DuckDuckGo Tool** - Supplementary web research
+- **Python-dotenv** - Environment variables management
 
 ## 📋 Prerequisites
 -  Python 3.x installed
